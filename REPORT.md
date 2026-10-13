@@ -1,4 +1,4 @@
-Họ tên: Nguyễn Việt Hoàng
+Họ tên: Ngô Xuân Hoàng
 `dataset_version`: d10-21e4070301
 
 ## Bảng tổng hợp (số của bạn, lấy từ `report/evidence/*.json`)
